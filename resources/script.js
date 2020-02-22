@@ -1,3 +1,3 @@
 var heading;
-heading = document.getElementById('Hello!');
-
+heading = document.getElementById('colourValue!');
+heading.innerHTML = 'Hello world!';
