@@ -1,2 +1,3 @@
-var heading
-heading = 
+var heading;
+heading = document.getElementById('Hello!');
+
